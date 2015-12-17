@@ -233,6 +233,14 @@
           </outputFormats>
         </configuration>
       </plugin>
+      <plugin>
+        <groupId>com.unileon.sedcat</groupId>
+        <artifactId>tools.sonarqube.sedcat</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+        <configuration>
+          <exito>pomeando</exito>
+        </configuration>
+      </plugin>
     </plugins>
   </build>
 </project>
