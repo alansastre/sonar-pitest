@@ -236,7 +236,7 @@
       <plugin>
         <groupId>com.unileon.sedcat</groupId>
         <artifactId>tools.sonarqube.sedcat</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.1</version>
         <configuration>
           <exito>pomeando</exito>
         </configuration>
